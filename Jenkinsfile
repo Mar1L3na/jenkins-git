@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Hello World! Are you there?"
-                echo "Hello Hello Hello!!!"
+                echo "Please automate my Hello!!! :)"
             }
         }
     }
