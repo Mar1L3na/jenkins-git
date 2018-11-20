@@ -3,9 +3,9 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "Hello World"
+                echo "Hello World!"
                 echo "The World says Hello back!"
-                echo "Hello Hello Hello"
+                echo "Hello Hello Hello!!!"
             }
         }
     }
