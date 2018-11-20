@@ -3,8 +3,9 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "Hello World! Are you there?"
-                echo "Please automate my Hello!!! :)"
+                echo "Hello World!"
+                echo "The World says hello back!"
+                echo "This is Jenkins integrated with Github."
             }
         }
     }
